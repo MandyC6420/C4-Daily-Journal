@@ -8,6 +8,8 @@ export const JournalEntryComponent = (entry) => {
             <div class = "entry__text">
             <p>${entry.date}</p>
             <p>${entry.entry}</p>
+            <p>Mood: ${entry.mood}</p>
+
             </div>
         </section>
     `
