@@ -56,3 +56,8 @@ main {
     margin: 5%;
     padding: 2em;
 }
+
+.parent-container {
+    display: flex;
+    flex-wrap: wrap;
+}
