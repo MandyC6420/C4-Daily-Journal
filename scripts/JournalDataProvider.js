@@ -21,7 +21,7 @@ const journal = [
         date: "01/06/2021",
         concept: "HTML & CSS",
         entry: "We learned about flexbox and layout",
-        mood: "Ok"
+        mood: "frustrated"
     },
 
     {
@@ -30,6 +30,14 @@ const journal = [
         concept: "HTML & CSS",
         entry: "We started working on Daily Journal and Martin's Aquarium",
         mood: "Ok"
+    },
+
+    {
+        id: 4,
+        date: "01/19/2021",
+        concept: "Printing to the DOM",
+        entry: "Worked on a movie array to print directly to the DOM",
+        mood: "Great"
     }
     
 ]
