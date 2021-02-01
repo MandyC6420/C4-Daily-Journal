@@ -61,3 +61,8 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
+
+#allEntriesPrinting{
+    display: flex;
+    justify-content: end;
+}
